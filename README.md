@@ -1,4 +1,4 @@
-# Next-API-Mongoose-TypeScript-Passport
+# Next-API-Mongoose-TypeScript-Passport-Styled
 
 This template features a [Next.js](https://nextjs.org/) project using:
 
